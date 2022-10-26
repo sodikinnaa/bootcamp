@@ -1,0 +1,18 @@
+Bisnis Model Canva(Kerangka lengkap untuk sebuah konsep bisnis){
+	Terdapat 9 elemen
+	Keuangan
+	Investor 
+	Value 
+}
+
+Bsnes Value Canvas(Fokus kerangka kecil){
+	Hanya penggambaran untuk keseluruhan
+	Bisnis, Perusahaan, 
+	Bisnis antara employ dan customer
+	(Fokus kerangka kecil pembangunan)
+}
+
+Fokus projeck{
+	Definition of done
+	Fokus di Bisnis Value
+}
